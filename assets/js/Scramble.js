@@ -73,7 +73,7 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-    'Learn. Teach. Hack. Win'
+    'Explore. Create. Innovate. Win'
 ];
 
 
