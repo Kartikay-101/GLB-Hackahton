@@ -6392,7 +6392,7 @@ button:hover:after {
 .lgx-header .lgx-navbar .lgx-nav li a {
     font-size: 1.5rem;
     line-height: 2.4000000000000004rem;
-    font-weight: 400;
+    font-weight: 600;
     text-transform: uppercase;
     opacity: 0.8;
     letter-spacing: 0.06rem;
@@ -6625,7 +6625,10 @@ button:hover:after {
     color: rgb(144, 196, 242);
     /* Set it to the same color as regular text */
 }
-
+nav ul li a:hover::after{
+    
+    
+  }
 .lgx-header {
     border-top: 1px solid transparent;
 }
@@ -6689,7 +6692,7 @@ button:hover:after {
     position: fixed;
     top: 0;
     width: 100%;
-    padding-bottom: 7px;
+    padding-bottom: 3px;
     z-index: 999;
     -webkit-animation-name: fadeInDown;
     animation-name: fadeInDown;
