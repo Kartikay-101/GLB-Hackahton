@@ -355,7 +355,7 @@ section#counter-stats {
 
 .more-info-section{
 
-    background-image: linear-gradient(rgba(22,22,22,0.7), rgba(22,22,22,0.9)), url('https://imgs.search.brave.com/Ta1jRV49yIFsYVaYqjLaiZMwC5Abc4CB33aQINAko9g/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMTNs/b2FydGpvYzF5bi5j/bG91ZGZyb250Lm5l/dC91cGxvYWQvaW5z/dGl0dXRlL2ltYWdl/cy9sYXJnZS8xOTA4/MjcwMTM5MzBfRy53/ZWJw');
+    background-image: linear-gradient(rgb(216 206 206 / 70%), rgba(22, 22, 22, 0.9)), url('https://imgs.search.brave.com/Ta1jRV49yIFsYVaYqjLaiZMwC5Abc4CB33aQINAko9g/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMTNs/b2FydGpvYzF5bi5j/bG91ZGZyb250Lm5l/dC91cGxvYWQvaW5z/dGl0dXRlL2ltYWdl/cy9sYXJnZS8xOTA4/MjcwMTM5MzBfRy53/ZWJw');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
