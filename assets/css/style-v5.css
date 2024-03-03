@@ -353,6 +353,27 @@ section#counter-stats {
     color: white;
 }
 
+.more-info-section{
+
+    background-image: linear-gradient(rgba(22,22,22,0.7), rgba(22,22,22,0.9)), url('https://imgs.search.brave.com/Ta1jRV49yIFsYVaYqjLaiZMwC5Abc4CB33aQINAko9g/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMTNs/b2FydGpvYzF5bi5j/bG91ZGZyb250Lm5l/dC91cGxvYWQvaW5z/dGl0dXRlL2ltYWdl/cy9sYXJnZS8xOTA4/MjcwMTM5MzBfRy53/ZWJw');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 6rem 0;
+    overflow: hidden;
+}
+
+
+.more-info-section .img-section{
+    position: relative;
+}
+
+
+.more-info-section .img-section img{
+    width: 70%;
+}
+
 .prize-modal-body a {
     text-decoration: underline !important;
 }
