@@ -458,7 +458,7 @@ a {
 }
 
 .clr-blue {
-    color: #90C4F2;
+    color: #cb8f2c;
 }
 
 .clr-black {
@@ -882,10 +882,10 @@ a {
 }
 
 #sponsors {
-    background-color: #040709;
+    background-color: #2b1207b5;
 }
 #organizers {
-    background-color: #0c072c;
+    background-color: #482b07b0;
 }
 .sponsor-heading {
     font-size: 25px;
@@ -2074,7 +2074,7 @@ h4.hack-prize-heading {
     cursor: pointer;
 }
 #faculty {
-    background-color: #282741;
+    background-color: #482b07b0;
 }
 #faculty img {
     margin: 5px;
