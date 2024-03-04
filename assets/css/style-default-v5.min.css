@@ -12073,13 +12073,16 @@ blockquote.lgx-testi-single:before {
 }
 
 .lgx-footer {
-    background: url(../img/footer-bg.jpg) center no-repeat;
-    -webkit-background-size: cover;
-    -o-background-size: cover;
-    -moz-background-size: cover;
+    background-image: url(../img/bg/bg1.png);
     background-size: cover;
-    color: #fff;
-    text-align: center;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 57vh;
+    justify-content: center;
+    align-items: center;
+    font-family: Anton, sans-serif;
 }
 
 .lgx-footer .lgx-inner-footer {
