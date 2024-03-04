@@ -2073,7 +2073,41 @@ h4.hack-prize-heading {
     font-size: 2.5rem;
     cursor: pointer;
 }
+#faculty {
+    background-color: #282741;
+}
+#faculty img {
+    margin: 5px;
+    border-radius: 2px;
+}
+.faculty-box{
+    background-color: #faf4f0;
+    margin: 2rem;
+    /* padding: 1.5rem; */
+    padding-top: 1rem;
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+    padding-bottom: 0.4rem;
+    width: 90%;
+    margin-bottom: 8rem;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #888;
+}
+.faculty-box h2 {
+    /* font-family: 'Montserrat', sans-serif; */
+    font-size: 2.25rem;
+    font-weight: 600;
+    line-height: 2.5rem;
+}
 
+.faculty-box h5 {
+    font-size: 1.8rem;
+}
+
+.faculty-box h6 {
+    font-size: 2.5rem;
+    cursor: pointer;
+}
 .fa-calendar,
 .fa-clock {
     font-size: 1vw;
