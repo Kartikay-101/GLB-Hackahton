@@ -2036,7 +2036,7 @@ h4.hack-prize-heading {
 }
 
 #teams {
-    background-color: #171a2f;
+    background-color: #321508;
 }
 
 #teams img {
@@ -2046,15 +2046,14 @@ h4.hack-prize-heading {
 
 .team-box {
     background-color: #faf4f0;
-    margin: 2rem;
-    /* padding: 1.5rem; */
+    margin: 1.5rem; /* Increased margin for gap */
     padding-top: 1rem;
     padding-left: 0.7rem;
     padding-right: 0.7rem;
-    padding-bottom: 0.4rem;
-    width: 90%;
-    margin-bottom: 8rem;
-    border-radius: 5px;
+    padding-bottom: 1.4rem;
+    width: 93%;
+    margin-bottom: 0rem;
+    border-radius: 15px;
     box-shadow: 2px 2px 5px #888;
 }
 
@@ -2074,7 +2073,7 @@ h4.hack-prize-heading {
     cursor: pointer;
 }
 #faculty {
-    background-color: #482b07b0;
+    background-color: #171a2f;
 }
 #faculty img {
     margin: 5px;
@@ -2108,6 +2107,7 @@ h4.hack-prize-heading {
     font-size: 2.5rem;
     cursor: pointer;
 }
+
 .fa-calendar,
 .fa-clock {
     font-size: 1vw;
@@ -2176,7 +2176,7 @@ lord-icon {
 
 @media (min-width: 1200px) {
     .container {
-        width: 1000px;
+        width: 1166px;
     }
 }
 
